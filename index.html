@@ -4,6 +4,7 @@
   <head>
     <title> Elaine's Page </title>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
    </head>
           
   <body>
@@ -20,7 +21,7 @@
       <h1>Hello, there! </h1>
       <section>
         <h2>My favorite quote is: </h2>
-        <p>"All the world's a stage, <br> And all the men and women are merely players" <br> <i>-Shakespeare</i> </p>
+        <p>"All the world's a stage, And all the men and women are merely players" <br> <i>-Shakespeare</i> </p>
         <h3>My hobbies </h3>
         <p> <b> Reading </b> - I can read for hours and hours and still not get tired of it. </p>
         <p> <strong> Watching Movies </strong> - I really love watching movies! </p>
@@ -91,13 +92,9 @@
                <source src = "./gatos_.mp4" type="video/mp4" ></video>
           
           <br>
-          <canvas id="Rectangle" width="200" height="100"></canvas>
-          <script>
-            var c = document.getElementById("Rectangle");
-            var ctx = c.getContext("2d");
-            ctx.fillStyle = 'orange';
-            ctx.fillRect(0, 0, 50, 50);
-          </script>
+          <canvas id="Rectangle" width="200" height="100"> 
+            <img src="./adorablepuppy4.jpg" width="200" height="100">
+          </canvas>
           
           <svg width="100" height="100">
             <circle cx="50" cy="50" r="10" fill="red"/>
