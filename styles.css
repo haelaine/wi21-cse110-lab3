@@ -16,7 +16,7 @@ code {
   background-color: rgb(176,176,176); 
 }
 
-form[aForm] {
+form[target] {
   border-style: solid; 
   
 }
