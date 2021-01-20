@@ -6,7 +6,7 @@
 
 #quote {
   color: rgba(255,0,0,4);
-  
+  border: 10px black; 
   margin: 5px 5px 5px 5px;
   padding: 15px 15px 15px 15px;
   height: 50px; 
@@ -16,8 +16,8 @@
 
 *h2 {
   color: rgb(120,120,120);
-  font-size: 15cm; 
-  text-decoration: underline overline; 
+  font-size: 40cm; 
+  text-decoration: underline; 
   
 }
 
