@@ -6,6 +6,12 @@
 
 #quote {
   color: rgba(255,0,0,4);
+  
+  margin: 5px 5px 5px 5px;
+  padding: 15px 15px 15px 15px;
+  height: 50px; 
+  width: 200px;
+    
 }
 
 *h2 {
