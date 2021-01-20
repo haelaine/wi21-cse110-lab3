@@ -1,3 +1,13 @@
+/*Sets some headings to bold*/
 .bold {
   font-weight: bold; 
+}
+
+#quote {
+  color: rgba(255,0,0,4);
+  background-color: green; 
+}
+
+*p {
+  color: rgb(120,120,120)
 }
