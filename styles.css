@@ -1,6 +1,7 @@
 /*Sets some headings to bold*/
 .bold {
   font-weight: bold; 
+  color: hsl(166, 100%,50%)
 }
 
 #quote {
@@ -8,11 +9,14 @@
 }
 
 *h2 {
-  color: rgb(120,120,120)
+  color: rgb(120,120,120);
 }
 
 code {
   background-color: #fff; 
 }
+
+
+
 
 
