@@ -14,7 +14,7 @@
 
 code {
   background-color: rgb(176,176,176); 
-  font-size: 
+  font-size: 3ch; 
 }
 
 p[target] {
@@ -22,6 +22,8 @@ p[target] {
   border-color: red;
   border-width: 4px; 
   border-radius: 100px; 
+  font-size: 2em;
+  
 }
 
 
