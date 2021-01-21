@@ -63,4 +63,8 @@ img, iframe {
   max-width = 75%; 
 }
 
+#nav {
+  display: inline-block; 
+}
+
 
