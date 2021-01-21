@@ -64,10 +64,11 @@ body label {
   font-size: 1.5em; 
 }
 
-h1.Top{
+p.bottom{
   position: fixed; 
   top: 0; 
   left: 0; 
+  background-color: black;
 }
 
 /*flexbox*/
