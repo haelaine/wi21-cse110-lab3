@@ -59,8 +59,8 @@ a:active {
 }
 
 img, iframe {
-  min-width = 40%;
-  max-width = 75%; 
+  min-width: 40%;
+  max-width: 75%; 
 }
 
 #nav {
