@@ -31,6 +31,10 @@ code {
   display: block; 
 }
 
+code::after{
+  content: "- Very important github command to know!"
+}
+
 p[target] {
   border-style: solid; 
   border-color: red;
@@ -50,8 +54,13 @@ a:active {
 
 @media screen and (min-width: 500 px) {
   body {
-    background-color: lightblue; 
+    background-color: yellow; 
   }
+}
+
+img, iframe {
+  min-width = 40%;
+  max-width = 75%; 
 }
 
 
