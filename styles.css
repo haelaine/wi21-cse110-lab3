@@ -74,9 +74,10 @@ p.bottom{
 /*flexbox*/
 .flex-container{
   display: flex;
-  flex-direction: row;
+  flex-direction: column-reverse;
   flex-wrap: nowrap; 
   align-items: stretch; 
+  background-color: blue;
 }
 
 .flex-item {
