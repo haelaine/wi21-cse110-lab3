@@ -28,7 +28,7 @@
 code {
   background-color: rgb(176,176,176); 
   font-size: 1.5ch; 
-  display: inline; 
+  display: block; 
 }
 
 p[target] {
