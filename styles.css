@@ -48,7 +48,7 @@ a:active {
   color: green;
 }
 
-@media screen and (min-width: 300 px) {
+@media screen and (min-width: 500 px) {
   body {
     background-color: gray; 
   }
