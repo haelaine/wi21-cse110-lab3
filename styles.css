@@ -22,8 +22,6 @@
 *h2 {
   color: rgb(120,120,120);
   font-size: 70cm; 
-  text-decoration: underline; 
-  
 }
 
 code {
@@ -64,8 +62,5 @@ img, iframe {
   max-width: 75%; 
 }
 
-#nav {
-  display: inline-block; 
-}
 
 
