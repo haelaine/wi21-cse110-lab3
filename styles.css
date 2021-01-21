@@ -8,6 +8,7 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+
 #quote {
   color: rgba(255,0,0,4);
   margin: 5px 5px 5px 5px;
@@ -38,14 +39,18 @@ p[target] {
   
 }
 
-a:link {
-  color: red;
+a:hover {
+  color: red;   
 }
 
-a:visited {
-  color: yellow;
+a:active {
+  color: green;
 }
 
-
+@media screen and (min-width: 300 px) {
+  body {
+    background-color: gray; 
+  }
+}
 
 
