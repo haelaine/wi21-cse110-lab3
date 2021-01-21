@@ -77,13 +77,13 @@ p.bottom{
   flex-direction: row;
   flex-wrap: nowrap; 
   align-items: flex-center; 
-  background-color: blue;
   color: yellow; 
 }
 
 .flex-item {
   order: 4;
   flex-grow: 5;  
+  background-color: blue;
 }
 
 .grid-container {
@@ -99,6 +99,6 @@ p.bottom{
 
 @media screen and (min-width: 700px) {
  body {
-      background-color: yellow; 
+      background-color: lightgreen; 
     }
 }
