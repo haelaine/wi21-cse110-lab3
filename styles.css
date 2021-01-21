@@ -84,3 +84,7 @@ p.bottom{
 .flex-item {
   order: 4; 
 }
+
+.grid-container {
+  display: inline-grid; 
+}
