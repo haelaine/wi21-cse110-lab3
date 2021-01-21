@@ -57,7 +57,11 @@ a:active {
   }
 }
 
-img, iframe {
+h2, h3 {
+  background-color: red; 
+}
+
+textarea{
   min-width: 40%;
   max-width: 75%; 
 }
