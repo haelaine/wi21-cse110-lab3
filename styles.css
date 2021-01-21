@@ -51,12 +51,6 @@ a:active {
   background-color: yellow;
 }
 
-@media screen and (min-width: 500 px) {
-  body {
-    background-color: yellow; 
-  }
-}
-
 h2, h3 {
   background-color: red; 
 }
