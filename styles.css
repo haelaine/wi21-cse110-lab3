@@ -96,3 +96,9 @@ p.bottom{
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
 }
+
+@media screen and (min-width: 700px px) {
+ body {
+      background-color: yellow; 
+    }
+}
