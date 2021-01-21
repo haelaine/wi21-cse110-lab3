@@ -68,3 +68,15 @@ h1.class{
   top: 0; 
   left: 0; 
 }
+
+/*flexbox*/
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap; 
+  align-items: stretch; 
+}
+
+.item {
+  order: 3; 
+}
