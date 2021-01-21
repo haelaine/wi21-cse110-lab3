@@ -28,7 +28,7 @@
 code {
   background-color: rgb(176,176,176); 
   font-size: 1.5ch; 
-  display: block; 
+  display: inline; 
 }
 
 p[target] {
@@ -45,12 +45,12 @@ a:hover {
 }
 
 a:active {
-  color: green;
+  background: yellow;
 }
 
 @media screen and (min-width: 500 px) {
   body {
-    background-color: gray; 
+    background-color: lightblue; 
   }
 }
 
