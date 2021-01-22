@@ -116,3 +116,17 @@ img+figcaption {
 h3~ul {
   background-color: lightblue; 
 }
+
+.heading {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px; 
+  margin-left: 5px;
+  padding-left: 15px; 
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  
+  height: 50px; 
+  width: 400px;
+}
