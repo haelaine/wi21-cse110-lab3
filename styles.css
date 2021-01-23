@@ -13,7 +13,7 @@
   color: rgba(255,0,0,4);
   margin: 5px 5px 5px 5px;
   padding: 15px 15px 15px 15px;
-  height: 75px; 
+  height: 125px; 
   width: 300px;
   background-color: green;
   display: inline-block; 
@@ -81,10 +81,24 @@ p.bottom{
   color: yellow; 
 }
 
-.flex-item {
-  order: 4;
-  flex-grow: 2;  
+.flex-item3 {
+  flex-grow: 1;  
   background-color: blue;
+}
+
+.flex-item2 {
+  flex-grow: 1;  
+  background-color: blue;
+}
+
+.flex-item1 {
+  flex-grow: 1;  
+  background-color: blue;
+}
+
+.flex-itemGO {
+  flex-grow: 4;  
+  background-color: red;
 }
 
 .grid-container {
