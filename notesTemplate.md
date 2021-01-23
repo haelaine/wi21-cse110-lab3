@@ -1,9 +1,23 @@
-# Name
+### Meeting Date:  
 
-# What did you accomplish yesterday?
+# Team Member Names
 
-# What do you plan to accomplish today?
+# What each person accomplished yesterday
+## Team Member 1: 
+## Team Member 2: 
+## Team Member 3: 
 
-# Do you have anything blocking you?
+# What each member plans to accomplish today
+## Team Member 1: 
+## Team Member 2: 
+## Team Member 3: 
+
+# Any Roadblocks 
+## Team Member 1: 
+## Team Member 2: 
+## Team Member 3: 
  
-# How close are we to hitting our goals?
+# How close each member has contributed to hitting our goals
+## Team Member 1: 
+## Team Member 2: 
+## Team Member 3: 
