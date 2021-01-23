@@ -16,8 +16,13 @@
 ## Team Member 1: 
 ## Team Member 2: 
 ## Team Member 3: 
- 
-# How close each member has contributed to hitting our goals
+
+# What still needs to be worked on 
+## Team Member 1: 
+## Team Member 2: 
+## Team Member 3: 
+
+# How close we are to hitting our goals
 ## Team Member 1: 
 ## Team Member 2: 
 ## Team Member 3: 
