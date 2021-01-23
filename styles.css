@@ -109,8 +109,8 @@ p.bottom{
     }
 }
 
-img+figcaption {
-  background-color: lightorange;
+hr+pre {
+  background-color: yellow;
 }
 
 h3~ul {
