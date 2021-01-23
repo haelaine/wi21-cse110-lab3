@@ -14,7 +14,7 @@
   margin: 5px 5px 5px 5px;
   padding: 15px 15px 15px 15px;
   height: 75px; 
-  width: 200px;
+  width: 300px;
   background-color: green;
   display: inline-block; 
   font-size: 1.5rem; 
@@ -91,7 +91,7 @@ p.bottom{
   display: inline-grid; 
   grid-template-columns: 50px 50px 50px;
   grid-template-rows: 50px; 
-  row-gap: 10px; 
+  grid-gap: 30px; 
 }
 
 .grid-item {
